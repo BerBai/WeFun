@@ -14,3 +14,5 @@
 <img src='../fun/download/d1.png' alt='示意图'/>
 
 ![](/fun/download/d1.png)
+
+![](https://github.com/smartbber/WeFun/raw/master/fun/download/d1.png)
