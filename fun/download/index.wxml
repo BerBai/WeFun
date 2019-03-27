@@ -1,5 +1,5 @@
 <!--download/index.wxml-->
-<view bindtap="load">
+<view bindtap="download">
 <text >download/index.wxml</text>
 </view>
 <loading hidden="{{  loadingHidden }}">

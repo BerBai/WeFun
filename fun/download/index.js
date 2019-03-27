@@ -8,7 +8,7 @@ Page({
     loadingHidden:true
   },
 
-  load: function() {
+  download: function() {
     this.setData({
       loadingHidden: false
     })  
