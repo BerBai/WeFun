@@ -11,8 +11,7 @@
 
 <h2 id='1'>文件下载</h2>
 
-<img src='https://github.com/smartbber/WeFun/raw/master/fun/download/d1.png' alt='示意图' style="height=330; width=190"/>
+<img src='https://github.com/smartbber/WeFun/raw/master/fun/download/d1.png' alt='示意图' height="330" width="190"/>
 
-![](/fun/download/d1.png)
+[](/fun/download/d1.png)
 
-![](https://github.com/smartbber/WeFun/raw/master/fun/download/d1.png)
