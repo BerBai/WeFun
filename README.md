@@ -9,7 +9,7 @@
 
 <h2 id='1'>文件下载</h2>
 
-在 .js 中加入 load 事件
+在 .js 中加入 download 事件
 ```js
 dowmload: function() {
     this.setData({
