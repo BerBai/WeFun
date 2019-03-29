@@ -3,7 +3,5 @@
 <text >download/index.wxml</text>
 </view>
 <loading hidden="{{  loadingHidden }}">
-
 加载中...
-
 </loading>
